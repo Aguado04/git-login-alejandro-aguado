@@ -34,5 +34,13 @@ Esta es una aplicación de Android desarrollada en Android Studio que presenta u
 3. En el Splash Screen hay una imagen de una cascada (mediante glide).
 4. La app está realizada con material 3.
 
+
+
+
 ![Captura1](https://github.com/Aguado04/git-login-alejandro-aguado/assets/132550694/24328f1f-6f3e-4e5b-a15e-9c7c30685f95)
-![Captura](https://github.com/Aguado04/git-login-alejandro-aguado/assets/132550694/2dbd14cf-77af-4a21-9699-1878b7c592bf)
+
+
+
+
+![Captura (1)](https://github.com/Aguado04/git-login-alejandro-aguado/assets/132550694/76f3aae8-1039-4af9-bf2b-aa2be4261502)
+
